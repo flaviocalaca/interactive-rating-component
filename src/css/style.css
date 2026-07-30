@@ -20,6 +20,9 @@ body {
   padding: 16px;
   background-color: hsl(213, 19%, 18%);
   border-radius: 50%;
+  width: 17px;
+  height: 16px;
+  box-sizing: content-box;
 }
 
 .card h1 {
